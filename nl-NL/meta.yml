@@ -1,10 +1,10 @@
-title: Draw a quad
+title: Teken een vierhoek
 hero_image: images/banner.png
-description: processing-python-quad description
+description: verwerking-python-quad beschrijving
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-01-24"
 steps:
   - 
-    title: Introduction
+    title: Inleiding
