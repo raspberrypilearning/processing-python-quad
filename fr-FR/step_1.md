@@ -11,4 +11,4 @@ filename: main.py
 
 Le quadrilatère sera dessiné avec un coin à chacune des quatre coordonnées données par (x1, y1), (x2, y2), (x3, y3), (x4, y4).
 
-![La zone de sortie montrant un quadrilatère avec des coins aux coordonnées du code.](images/example.png)
+![The output area showing a quad with corners at the coordinates from the code.](images/example.png)
